@@ -27,7 +27,7 @@ public class tictactoe {
 		System.out.println(jogador1 + " will be represented with X\n");
 		System.out.println("Player 2, type your name: ");
 		String jogador2 = input.nextLine();
-		System.out.println(jogador2 + " will be represented withO\n");
+		System.out.println(jogador2 + " will be represented with O\n");
 
 		while (!fim) {
 
